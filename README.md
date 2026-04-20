@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?mtype=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavyanjali%20Karan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Developer%20%7C%20GenAI%20Applications&descAlignY=58&descColor=a78bfa" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavyanjali%20Karan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Developer%20%7C%20GenAI%20Applications&descAlignY=58&descColor=a78bfa" alt="header"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyanjali-karan)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karankavyanjali77@gmail.com)
