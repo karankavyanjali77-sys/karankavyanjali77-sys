@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavyanjali%20Karan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Developer%20%7C%20GenAI%20Applications&descAlignY=58&descColor=a78bfa" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kavyanjali%20Karan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20GenAI%20Applications&descAlignY=58&descColor=a78bfa" alt="header"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyanjali-karan)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karankavyanjali77@gmail.com)
@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-> **Data Analyst & ML Developer** who builds and deploys real, working AI systems — not just notebooks.
+> **Data Analyst & ML Engineer** who builds and deploys real, working AI systems — not just notebooks.
 
 I'm a Computer Science undergraduate at ITER, SOA University (graduating 2027), selected for **McKinsey Forward Program**, **Google Gen AI Academy APAC**, and **Guidewire Hackathon** (2026) — and a **Round 2 qualifier at L&T Technology Services Techgium** national hackathon (Oct 2025).
 
